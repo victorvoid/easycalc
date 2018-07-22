@@ -1,0 +1,49 @@
+.payment-details {
+  padding: 0 20px;
+}
+
+.payment-details .gross-value span {
+  display: block;
+  text-align: right;
+}
+
+.payment-details .gross-value .description {
+  color: #8b8b8b;
+}
+
+.payment-details .gross-value .value {
+  font-size: 40px;
+  color: #2483FF;
+  font-weight: 700;
+}
+
+.payment-details > .title {
+  font-size: 18px;
+  font-weight: 300;
+  color: #3B5F7A;
+  padding: 20px 0 0;
+  text-align: right;
+}
+
+.payment-details .details .item {
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.payment-details .details .title {
+  margin: 0;
+  color: #778796;
+}
+
+.payment-details .details .description {
+  color: #8b8b8b;
+  margin: 5px 0;
+}
+
+.payment-details .details .value {
+  font-weight: 700;
+  font-size: 18px;
+  margin-left: 50px;
+}

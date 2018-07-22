@@ -1,0 +1,26 @@
+.calculator {
+  box-sizing: border-box;
+  background: #FFF;
+  padding: 30px;
+  width: 90%;
+  margin: 0 auto;
+  box-shadow: 0 2px 4px 0 rgba(192,208,230,0.5);
+  border-radius: 4px;
+  position: relative;
+}
+
+.calculator .input-value {
+  border: none;
+  font-size: 22px;
+  outline: none;
+  color: #53565C;
+  width: 100%;
+}
+
+.calculator .input-label {
+  display: block;
+  color: #4e5d6d;
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-weight: 300;
+}

@@ -1,0 +1,11 @@
+header {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #2483FF;
+}
+
+header a {
+  color: #FFF;
+  font-size: 24px;
+  font-weight: 700;
+}
