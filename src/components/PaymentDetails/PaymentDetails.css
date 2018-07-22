@@ -9,6 +9,7 @@
 
 .payment-details .gross-value .description {
   color: #8b8b8b;
+  font-weight: 300;
 }
 
 .payment-details .gross-value .value {

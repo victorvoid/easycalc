@@ -1,6 +1,11 @@
 .home .calculator {
-  margin-top: 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.home .container > .title {
+  font-size: 16px;
+  color: #4e5d6d;
+  margin: 50px 0 20px;
 }
